@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PocAppointmentApiApplication{
+public class PocAppointmentApiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(PocAppointmentApiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(PocAppointmentApiApplication.class, args);
+    }
 }

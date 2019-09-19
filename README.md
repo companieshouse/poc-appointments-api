@@ -17,6 +17,10 @@ mvn package && java -jar target/poc-appointment-api-0.0.1-SNAPSHOT.jar
 
 or
 
+mvn spring-boot:run
+
+or
+
 run PocAppointmentApiApplication.java from within an IDE
 
 ## End points
